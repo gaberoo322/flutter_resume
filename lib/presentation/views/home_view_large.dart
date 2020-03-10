@@ -178,7 +178,7 @@ class HomeViewLarge extends StatelessWidget {
             vertical: 20,
           ),
           child: Text(
-            'HIRE ME'.toUpperCase(),
+            'GET AT ME',
             style: TextStyle(color: Colors.white),
           ),
         ),
