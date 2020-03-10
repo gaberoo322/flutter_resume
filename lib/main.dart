@@ -7,7 +7,7 @@ class FlutterResume extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Gabe\'s Resume',
       theme: ThemeData(
         primarySwatch: Colors.teal,
         accentColor: Colors.pink,
