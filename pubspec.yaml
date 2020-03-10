@@ -14,9 +14,11 @@ description: A flutter resume site.
 version: 1.0.0+1
 
 environment:
-  sdk: '>=2.6.0 <3.0.0'
+  sdk: ">=2.6.0 <3.0.0"
 
 dependencies:
+  cloud_firestore:
+
   flutter:
     sdk: flutter
   font_awesome_flutter: ^8.5.0 # icons from font awesome
